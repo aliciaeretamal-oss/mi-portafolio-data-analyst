@@ -42,7 +42,6 @@ Isolation Forest — 100% Python, temática oil & gas.
 
 ## 4. Mejoras incorporadas desde la retroalimentación
 
-- [Espacio para las observaciones puntuales del docente, si las hay]
 - Mejoras propias aplicadas: corrección de concordancia y cierre de frases en las
   respuestas escritas del desafío de narrativa de datos; refuerzo de la respuesta
   "poder de los datos" con cifras concretas (3.2★ vs 4.5★, $600.000 anuales).
